@@ -16,8 +16,8 @@ Instead of relying on unit tests, this lab is deliverable driven. You will be
 responsible for asserting your solution works as intended by testing the
 behavior visually in the browser.
 
-1. Fork and clone this repository
-2. Open `index.html` in Chrome (Tip: you can use `open index.html` in bash and, as long as Chrome is your default application for opening `.html` files, it will automatically open the file)
+  <!-- 1. Fork and clone this repository -->
+<!-- 2. Open `index.html` in Chrome (Tip: you can use `open index.html` in bash and, as long as Chrome is your default application for opening `.html` files, it will automatically open the file) -->
 3. Put your JavaScript knowledge to the test and work your way through the deliverables
 
 ## Structuring Your Code:
@@ -28,9 +28,9 @@ while using your knowledge to write readable, maintainable code.
 
 ## Deliverables:
 
-- As a user, I should be able to type a task into the input field.
-- As a user, I should be able to click some form of a submit button.
-- As a user, the task string that I provided should appear on the DOM after the submit button has been activated.
+<!-- - As a user, I should be able to type a task into the input field. -->
+<!-- - As a user, I should be able to click some form of a submit button. -->
+<!-- - As a user, the task string that I provided should appear on the DOM after the submit button has been activated. -->
 
 **Note:** [While the example][example] shows one working application of TaskLister Lite™️, yours can (and is encouraged to!) look however you like.
 
